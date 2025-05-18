@@ -22,7 +22,8 @@
 ⌛ **Interactive Typewriter Text**  
 - Welcome messages and dialogues delivered with a comic-inspired typewriter animation.
 
--  Use Case
+
+Use Case
 Perfect for learning, teaching, or demonstrating machine learning concepts in a fun and engaging environment—especially to newcomers or superhero fans.
 
 ✨ Future Improvements
