@@ -42,3 +42,4 @@ Real-time hero narration with voice synthesis
 4. Abdul Mutaal Aashil
 5. Muhammad Umer Raza
 
+live app: https://lnkd.in/eiWg4B4c
